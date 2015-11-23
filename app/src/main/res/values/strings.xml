@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andreatorres_examen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_entrada_datos">EntradaDatos</string>
+    <string name="title_activity_listas">Listas</string>
+</resources>
